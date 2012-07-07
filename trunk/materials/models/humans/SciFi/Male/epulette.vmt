@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\humans\SciFi\Male\Epulette_3"
+	"$bumpmap" "models\humans\SciFi\Male\Epulette_n"
+}
