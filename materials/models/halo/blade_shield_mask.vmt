@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\halo/blade_shield_mask"
+	"$translucent" 1
+	"$additive" 1
+	"$selfillum" 1
+}

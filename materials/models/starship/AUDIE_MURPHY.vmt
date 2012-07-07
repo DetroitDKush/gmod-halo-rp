@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\starship\AUDIE_MURPHY"
+	"$bumpmap" "models\starship\AUDIE_MURPHY_n"
+	$detail models\starship\audie_murphy_l
+   $phong 1
+  $phongexponent 1
+	$halflambert 1
+  $phongboost	0.1
+	$phongfresnelranges	"[0.05 0.5 1]"
+ }

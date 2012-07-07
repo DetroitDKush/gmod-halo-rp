@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "mndels/HaloMarine/dark_eyeball_l"
+	"$iris" "mndels/HaloMarine/pupil_l"
+	"$halflambert" 1
+}

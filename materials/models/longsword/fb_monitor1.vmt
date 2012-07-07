@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/longsword/fb_monitor1"
+	"$selfillum" 1
+}

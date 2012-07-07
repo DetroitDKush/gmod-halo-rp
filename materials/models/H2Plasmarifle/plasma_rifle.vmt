@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\H2Plasmarifle/plasma_rifle"
+	"$bumpmap" "models\H2Plasmarifle/plasma_rifle_bump_active_camo"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$surfaceprop" "metal"
+	"envmapcontrast" 1
+	"$envmaptint" "[ .8 .8 .8 ]"
+}

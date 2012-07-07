@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\activecamo/activecamo_core"
+	"$translucent" 1
+}

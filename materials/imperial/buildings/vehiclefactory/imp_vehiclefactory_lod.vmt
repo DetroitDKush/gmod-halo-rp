@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "Imperial/Buildings/VehicleFactory/imp_vehicleFactory_LOD"
+
+	"$surfaceprop" "concrete"
+	"%keywords" "empires"
+}

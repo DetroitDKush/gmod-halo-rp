@@ -1,0 +1,166 @@
+"0"
+{ "Information"
+{ "Name" "Halo_Stuff" }
+"Entries"
+{
+
+"1" { "model" "models/characters/halo2-desertchief.mdl" }
+
+"2" { "model" "models/halo/energysword.mdl" }
+
+"3" { "model" "models/ghost.mdl" }
+
+"4" { "model" "models/h2longsword.mdl" }
+
+"5" { "model" "models/h2plasma.mdl" }
+
+"6" { "model" "models/h2plasmarifle.mdl" } 
+
+"7" { "model" "models/halo_grunt.mdl" }
+
+"8" { "model" "models/characters/halo2-masterchief.mdl" }
+
+"9" { "model" "models/chief.mdl" }
+
+"10" { "model" "models/dropship_closed.mdl" }
+
+"11" { "model" "models/dropship_open.mdl" }
+
+"12" { "model" "models/elite_gold.mdl" }
+
+"13" { "model" "models/elite.mdl" }
+
+"14" { "model" "models/elite_red.mdl" }
+
+"15" { "model" "models/hunter.mdl" }
+
+"16" { "model" "models/jackal.mdl" }
+
+"17" { "model" "models/longsword.mdl" }
+
+"18" { "model" "models/marine.mdl" }
+
+"19" { "model" "models/pelican.mdl" }
+
+"20" { "model" "models/scorpion.mdl" }
+
+"21" { "model" "models/warthog/gun.mdl" }
+
+"22" { "model" "models/warthog/warthog.mdl" }
+
+"23" { "model" "models/characters/halo2-swatteamchf.mdl" }
+
+"24" { "model" "models/characters/halo2-tpixelchief.mdl" }
+
+"25" { "model" "models/characters/halo2-urbanmchief.mdl" }
+
+"26" { "model" "models/characters/halo2-winterchief.mdl" }
+
+"27" { "model" "models/Cortana/cortana.mdl" }
+
+"28" { "model" "models/humans/cortana.mdl" }
+
+"29" { "model" "models/weapons/w_m90shotgun.mdl" }
+
+"30" { "model" "models/weapons/w_m6d.mdl" }
+
+"31" { "model" "models/weapons/w_ma5b.mdl" }
+
+"32" { "model" "models/weapons/w_ma5bassaultrifle.mdl" }
+
+"33" { "model" "models/weapons/w_needler.mdl" }
+
+"34" { "model" "models/weapons/w_oddball.mdl" }
+
+"35" { "model" "models/weapons/w_plasmacannon.mdl" }
+
+"36" { "model" "models/weapons/w_plasmapistol.mdl" }
+
+"37" { "model" "models/weapons/w_plasmarifle.mdl" }
+
+"38" { "model" "models/weapons/w_rocketlauncher.mdl" }
+
+"39" { "model" "models/weapons/w_s2amsniper.mdl" }
+
+"40" { "model" "models/weapons/w_smg1.mdl" }
+
+		"41"
+		{
+			"model"		"models/assbomb.mdl"
+		}
+		"42"
+		{
+			"model"		"models/beamrifle.mdl"
+		}
+		"43"
+		{
+			"model"		"models/blade.mdl"
+		}
+		"44"
+		{
+			"model"		"models/brifle.mdl"
+		}
+		"45"
+		{
+			"model"		"models/bshot.mdl"
+		}
+		"46"
+		{
+			"model"		"models/flag.mdl"
+		}
+		"47"
+		{
+			"model"		"models/frag.mdl"
+		}
+		"48"
+		{
+			"model"		"models/ghammer.mdl"
+		}
+		"49"
+		{
+			"model"		"models/hshotgun.mdl"
+		}
+		"50"
+		{
+			"model"		"models/magnum.mdl"
+		}
+		"51"
+		{
+			"model"		"models/needler.mdl"
+		}
+		"52"
+		{
+			"model"		"models/pgren.mdl"
+		}
+		"53"
+		{
+			"model"		"models/ppis.mdl"
+		}
+		"54"
+		{
+			"model"		"models/prifle.mdl"
+		}
+		"55"
+		{
+			"model"		"models/rlaunch.mdl"
+		}
+		"56"
+		{
+			"model"		"models/sgun.mdl"
+		}
+		"57"
+		{
+			"model"		"models/skull.mdl"
+		}
+		"58"
+		{
+			"model"		"models/smg.mdl"
+		}
+		"59"
+		{
+			"model"		"models/snipeh.mdl"
+		}
+
+
+}
+}

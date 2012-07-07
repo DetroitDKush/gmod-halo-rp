@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/haxxer/me2_props/Kitchen09_Clean_Diff"
+	"$bumpmap" "models/haxxer/me2_props/Kitchen09_Clean_Norm"
+	"$phongexponenttexture" "models/haxxer/me2_props/Kitchen09_Clean_Spec"
+}

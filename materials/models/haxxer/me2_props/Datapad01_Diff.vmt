@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/haxxer/me2_props/Datapad01_Diff"
+	"$bumpmap" "models/haxxer/me2_props/Datapad01_Norm"
+}

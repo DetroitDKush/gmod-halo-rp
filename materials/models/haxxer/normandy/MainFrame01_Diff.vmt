@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/haxxer/normandy/MainFrame01_Diff"
+	"$bumpmap" "models/haxxer/normandy/MainFrame01_Norm"
+
+	"$detail" "models/haxxer/normandy/MainFrame01_Blend"
+	"$detailscale" "1"
+	"$detailblendfactor" "1.25"
+	"$detailblendmode" "5"
+
+}

@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "Imperial/Buildings/Refinery/imp_refinery_lightmap"
+	
+	"$translucent" 1
+
+	"$surfaceprop" "concrete"
+	"%keywords" "empires"
+}

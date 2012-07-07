@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\huey/UH1D2.vtf"
+             "$bumpmap" "models\huey/UH1D2_bump.vtf"
+      	"$phong" "1"
+	"$phongboost"   "0.8"
+	"$phongfresnelranges" "[0.5 0.5 0.5]"
+	"$phongalbedotint" "1"
+	"$phongexponent"	"10"
+             "$surfaceprop" "metal"
+             "$model" 1
+}

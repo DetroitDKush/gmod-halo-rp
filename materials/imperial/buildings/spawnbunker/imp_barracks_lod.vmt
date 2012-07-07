@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "Imperial/Buildings/SpawnBunker/imp_barracks_LOD"
+
+	"$surfaceprop" "concrete"
+	"%keywords" "empires"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/infectionform/infection_tentacles1"
+	"$translucent" 1
+}

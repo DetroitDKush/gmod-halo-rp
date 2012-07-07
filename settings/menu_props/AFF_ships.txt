@@ -1,0 +1,70 @@
+
+// # = ragdoll
+// : = car
+// ! = effect
+// ' = sprite
+// ~/@ = label
+// = = run console command
+
+
+"AFF_ships"
+ {
+	"~USN"		""
+
+	"aesir"     "models/af/AFF/USN/aesir.mdl"
+	"alfazard"     "models/af/AFF/USN/alfazard.mdl"
+	"commbuoy"     "models/af/AFF/USN/commbuoy.mdl"
+	"daphne"     "models/af/AFF/USN/daphne.mdl"
+	"dock_dw"     "models/af/AFF/USN/dock_dw.mdl"
+	"fox"     "models/af/AFF/USN/fox.mdl"
+	"fuelpod"     "models/af/AFF/USN/fuelpod.mdl"
+	"gemini_ii"     "models/af/AFF/USN/gemini_ii.mdl"
+	"griphone"     "models/af/AFF/USN/griphone.mdl"
+	"heimdal"     "models/af/AFF/USN/heimdal.mdl"
+	"hind"     "models/af/AFF/USN/hind.mdl"
+	"huginn"     "models/af/AFF/USN/huginn.mdl"
+	"lccp"     "models/af/AFF/USN/lccp.mdl"
+	"medea"     "models/af/AFF/USN/medea.mdl"
+	"mjolnir"     "models/af/AFF/USN/mjolnir.mdl"
+	"muninn"     "models/af/AFF/USN/muninn.mdl"
+	"orion"     "models/af/AFF/USN/orion.mdl"
+	"ragnarok"     "models/af/AFF/USN/ragnarok_TB.mdl"
+	"ranger."     "models/af/AFF/USN/ranger.mdl"
+	"rapier"     "models/af/AFF/USN/rapier.mdl"
+	"relay_sat."     "models/af/AFF/USN/relay_sat.mdl"
+	"repair_yard"     "models/af/AFF/USN/repair_yard.mdl"
+	"sword"     "models/af/AFF/USN/sword.mdl"
+	"tyrant"     "models/af/AFF/USN/tyrant.mdl"
+	"viper"     "models/af/AFF/USN/viper.mdl"
+	"whale"     "models/af/AFF/USN/whale.mdl"
+	"warhawkUSN"     "models/af/AFF/USN/warhawk.mdl"
+
+	"~AISN"		""
+
+	"baal"     "models/af/AFF/AISN/baal.mdl"
+	"bast"     "models/af/AFF/AISN/bast.mdl"
+	"chons"     "models/af/AFF/AISN/chons.mdl"
+	"damocles"     "models/af/AFF/AISN/damocles.mdl"
+	"evenstar"     "models/af/AFF/AISN/evenstar.mdl"
+	"hours"     "models/af/AFF/AISN/hours.mdl"
+	"iret"     "models/af/AFF/AISN/iret.mdl"
+	"khamun"     "models/af/AFF/AISN/khamun.mdl"
+	"longtransport"     "models/af/AFF/AISN/longtransport.mdl"
+	"morningstarb"     "models/af/AFF/AISN/morningstarb.mdl"
+	"naquda"     "models/af/AFF/AISN/naquda.mdl"
+	"osiris"     "models/af/AFF/AISN/osiris.mdl"
+	"pride"     "models/af/AFF/AISN/pride.mdl"
+	"questes"     "models/af/AFF/AISN/questes.mdl"
+	"shu"     "models/af/AFF/AISN/shu.mdl"
+	"sobek"     "models/af/AFF/AISN/sobek.mdl"
+	"ti"     "models/af/AFF/AISN/ti.mdl"
+	"vlad"     "models/af/AFF/AISN/vlad.mdl"
+	"whaleAISN"     "models/af/AFF/AISN/whale.mdl"
+
+	"~CIV"		""
+
+              "ESP"  "models/af/AFF/CIV/epy_ST.mdl"
+              "GAS"  "models/af/AFF/CIV/GAS.mdl"
+              "OUTPOST"  "models/af/AFF/CIV/outpost.mdl"
+
+ }

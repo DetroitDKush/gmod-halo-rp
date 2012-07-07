@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/haxxer/me2_props/ShowerHead01_Diff"
+	"$bumpmap" "models/haxxer/me2_props/ShowerHead01_Norm"
+
+	$detail "models/haxxer/me2_props/ShowerHead01_Blend"
+	$detailscale 1
+	$detailblendfactor "1.25"
+	$detailblendmode 5
+}

@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "Imperial/Buildings/Radar/imp_radar_lightmap"
+	
+	"$translucent" 1
+
+	"$surfaceprop" "concrete"
+	"%keywords" "empires"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/haxxer/normandy/Desk01_Diff"
+	"$bumpmap" "models/haxxer/normandy/Desk01_Norm"
+}

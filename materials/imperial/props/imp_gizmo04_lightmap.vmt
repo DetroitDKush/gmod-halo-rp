@@ -1,0 +1,18 @@
+"lightmappedGeneric"
+{
+	"$basetexture"	"Imperial/Props/imp_gizmo04"
+	"$bumpmap" "Imperial/Props/imp_gizmo04_normal"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.5 0.5 0.5 ]"
+	"$envmapsaturation" 0.5
+	"$normalmapalphaenvmapmask" 1
+	
+	"lightmappedgeneric_HDR_dx9"
+ 	{
+		"$envmaptint" "[.15 .15 .15]"
+	}
+
+	"%keywords" "empires"
+	"$surfaceprop" "metal"
+}

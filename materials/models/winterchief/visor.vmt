@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+       "$baseTexture" "models/winterchief/visor"
+	"$bumpmap" "models/winterchief/visor-normal"
+	"$envmap" "env_cubemap"
+
+	
+
+	
+}
+

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/haxxer/me2_props/Crate01_Worn_L_Diff"
+	"$bumpmap" "models/haxxer/me2_props/Crate01_Worn_L_Norm"
+	"$phongexponenttexture" "models/haxxer/me2_props/Crate01_Worn_L_Spec"
+}
+

@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+       "$baseTexture" "models/winterchief/master-chief-color2"
+	"$bumpmap" "models/winterchief/master-chief-normal"
+	"$envmap" "models/winterchief/soria-env"
+
+	"$envmapcontrast" 1
+	"$envmapsaturation" 0
+
+	
+}
+

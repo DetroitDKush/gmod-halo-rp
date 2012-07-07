@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "Imperial/Buildings/RepairPad/imp_repairPad_lightmap"
+	
+	"$translucent" 1
+
+	"$surfaceprop" "concrete"
+	"%keywords" "empires"
+}

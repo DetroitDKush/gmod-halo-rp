@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+       "$baseTexture" "models/tpixelchief/visor"
+	"$bumpmap" "models/tpixelchief/visor-normal"
+	"$envmap" "env_cubemap"
+
+	
+
+	
+}
+

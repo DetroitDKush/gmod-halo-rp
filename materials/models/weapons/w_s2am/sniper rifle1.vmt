@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/w_s2am/sniper rifle1"
+	"$bumpmap" "models/weapons/w_s2am/sniper rifle normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+}

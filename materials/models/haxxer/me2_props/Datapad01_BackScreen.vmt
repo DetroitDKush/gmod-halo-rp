@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+
+	"$basetexture" "models/haxxer/me2_props/Datapad01_BackScreen"
+
+	"$detail" "models/haxxer/me2_props/Datapad01_blend_back"
+	"$detailscale" "1"
+	"$detailblendfactor" "1.25"
+	"$detailblendmode" "5"
+
+}

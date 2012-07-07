@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+       "$baseTexture" "models/player/edis_splintercell/chest"
+	"$bumpmap" "models/player/edis_splintercell/chest_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.4 0.4 0.4]"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 0
+	"$normalmapalphaenvmapmask" 1
+	"$bumpscale" "5"
+	
+}
+

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/haxxer/me2_props/BedMedical01_Diff"
+	"$bumpmap" "models/haxxer/me2_props/BedMedical01_Norm"
+	"$phongexponenttexture" "models/haxxer/me2_props/BedMedical01_Spec"
+
+}

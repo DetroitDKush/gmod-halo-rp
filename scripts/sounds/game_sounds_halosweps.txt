@@ -1,0 +1,305 @@
+// Halo Weapon sound scripts.  Don't fuck with this.  Please.
+
+
+//THIS CONTENT WAS MADE BY BLACKOPS7799
+
+//IF THIS CONTENT IS IN ANY OTHER PACK THAT IS NOT RELEASED BY ME IT IS STOLEN
+
+//PLEASE DONT USE MY STUFF FOR YOUR MODS.
+
+//////////////////////
+//MA5B ASSAULT RIFLE//
+/////////////////////
+"Weapon_MA5B.Single" //Fire sound.
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.55"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"95,105" 
+	"rndwave"
+	{
+//		"wave"		"weapons/ma5b/arfire1.wav"
+//		"wave"		"weapons/ma5b/arfire2.wav"
+//		"wave"		"weapons/ma5b/arfire3.wav"
+		"wave"		"weapons/aafire1.wav"
+	}
+}
+
+"Weapon_MA5B.Reload" //Take a guess.
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+//	"wave"		"weapons/ma5b/ma5b_reload.wav"
+	"wave"		"weapons/ar_reload.wav"
+}
+
+"Weapon_MA5B.Ready" //Whaddya think?
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+//	"wave"		"weapons/ma5b/ma5b_draw.wav"
+	"wave"		"weapons/ar_ready.wav"
+}
+
+"Weapon_MA5B.Melee" //THWACK.
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+//	"wave"		"weapons/ma5b/ma5b_melee.wav"
+	"wave"		"weapons/ar_melee.wav"
+}
+
+"Weapon_MA5B.Impact" //THUNK.
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+//	"wave"		"weapons/ma5b/ma5b_impact.wav"
+	"wave"		"weapons/ar_impact.wav"
+}
+
+//////////////////////
+//M6D STANDARD ISSUE//
+/////////////////////
+"Weapon_M6D.Single" //Fire sound.
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.55"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"95,105" 
+
+//	"wave"		"weapons/m6d/m6d_fire.wav"
+	"wave"		"weapons/pistol_fire.wav"
+
+}
+
+"Weapon_M6D.Reload" //Clipin. Clipout.
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+//	"wave"		"weapons/m6d/m6d_reload.wav"
+	"wave"		"weapons/pistol_reload.wav"
+}
+
+"Weapon_M6D.Ready" //Cha-click.
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+//	"wave"		"weapons/m6d/m6d_draw.wav"
+	"wave"		"weapons/pistol_ready.wav"
+}
+
+"Weapon_M6D.Melee" //THWACK.
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+//	"wave"		"weapons/m6d/m6d_melee.wav"
+	"wave"		"weapons/pistol_melee.wav"
+}
+
+"Weapon_M6D.Impact" //THUNK.
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+//	"wave"		"weapons/m6d/m6d_impact.wav"
+	"wave"		"weapons/pistol_impact.wav"
+}
+
+"Weapon_M6D.Posing" //Playing with the scope adjuster..thingie..
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+//	"wave"		"weapons/m6d/m6d_posing.wav"
+	"wave"		"weapons/pistol_posing.wav"
+}
+//////////////////////
+//SHOTGUN           //
+/////////////////////
+"Weapon_M6D.Single" //Fire sound.
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.55"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"95,105" 
+
+//	"wave"		"weapons/m6d/m6d_fire.wav"
+	"wave"		"weapons/pistol_fire.wav"
+
+}
+
+"Weapon_M6D.Reload" //Clipin. Clipout.
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+//	"wave"		"weapons/m6d/m6d_reload.wav"
+	"wave"		"weapons/pistol_reload.wav"
+}
+
+"Weapon_M6D.Ready" //Cha-click.
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+//	"wave"		"weapons/m6d/m6d_draw.wav"
+	"wave"		"weapons/pistol_ready.wav"
+}
+
+"Weapon_M6D.Melee" //THWACK.
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+//	"wave"		"weapons/m6d/m6d_melee.wav"
+	"wave"		"weapons/pistol_melee.wav"
+}
+
+"Weapon_M6D.Impact" //THUNK.
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+//	"wave"		"weapons/m6d/m6d_impact.wav"
+	"wave"		"weapons/pistol_impact.wav"
+}
+
+"Weapon_M6D.Posing" //Playing with the scope adjuster..thingie..
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+//	"wave"		"weapons/m6d/m6d_posing.wav"
+	"wave"		"weapons/pistol_posing.wav"
+}
+//////////////////////
+//Sniper            //
+/////////////////////
+"Weapon_HSniper.Fire" //Fire sound.
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.55"
+	"soundlevel"		"SNDLVL_GUNFIRE"
+	"pitch"			"95,105" 
+
+	"wave"		"weapons/hsniper/sniperfire1.wav"
+	"wave"		"weapons/hsniper/sniperfire2.wav"
+	"wave"		"weapons/hsniper/sniperfire3.wav"
+	"wave"		"weapons/hsniper/sniperfire4.wav"
+
+}
+
+"Weapon_HSniper.Reload" //Clipin. Clipout.
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"		"weapons/hsniper/sniperreloadempty.wav"
+}
+
+"Weapon_HSniper.Ready" //Cha-click.
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"		"weapons/hsniper/sniperdraw.wav"
+}
+
+"Weapons_HSniper.Melee" //THWACK.
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"		"weapons/hsniper/snipermelee.wav"
+}
+
+"Weapon_HSniper.Nade"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"		""
+}
+//////////////////////
+//Plasma Rifle      //
+/////////////////////
+"Weapon_HPlasmaRifle.Fire" //Fire sound.
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.55"
+	"soundlevel"		"SNDLVL_GUNFIRE"
+	"pitch"			"95,105" 
+
+	"wave"		"weapons/plasmarifle.wav"
+
+}
+
+"Weapon_HPlasmaRifle.StopOH"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"		""
+}
+
+"Weapon_HPlasmaRifle.Ready" //Cha-click.
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"		""
+}
+
+"Weapons_HPlasmaRifle.Melee" //THWACK.
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"		""
+}
+
+"Weapon_HPlasmaRifle.OH" //THWACK.
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"		"weapons/plasrifle_overheat.wav"
+}
+
+"Weapon_HPlasmaRifle.Nade"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"		""
+}

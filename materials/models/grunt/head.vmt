@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+    	"$basetexture" "models\grunt\head"
+    	"$bumpmap" "models\grunt\head_normal"
+   	"$envmap" "env_cubemap"
+    	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+//	"$envmaptint" "[ 0.5 0.5 0.5 ]"
+}

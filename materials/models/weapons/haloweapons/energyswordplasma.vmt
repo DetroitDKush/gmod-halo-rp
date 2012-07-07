@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/haloweapons/energysword"
+	//"$detail" "models/weapons/haloweapons/energyswordplasma" 
+	"$detailscale" 1.0 
+	"$translucent" 1
+	"$decal" 1
+}

@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"Imperial/Props/imp_light1"
+	
+ 	"$model" 1
+	"$nocull" "1"
+//	"$additive" "1"
+	"$selfillum" 1
+//	"$selfillumtint" "[20 20 20]" 
+
+	"%keywords" "empires"
+	"$surfaceprop" "metal"
+
+	"Proxies"
+	{
+		"Sine"
+		{
+			"resultVar" "$color"
+			"sineperiod" 1
+			"sinemin" .4
+			"sinemax" 1
+		}
+	}	
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Weapons/w_rocketlauncher/rocket launcher1"
+	"$bumpmap" "models/Weapons/w_rocketlauncher/rocket launcher_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+}

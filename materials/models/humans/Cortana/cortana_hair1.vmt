@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/Humans/Cortana/cortana_hair1"
+	"$nocull" 1
+	"$model" 1
+}

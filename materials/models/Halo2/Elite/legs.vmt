@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Halo2/Elite/legs"
+	"$bumpmap" "Models/Halo2/Elite/legs_bump"
+}

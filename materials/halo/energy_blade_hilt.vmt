@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\halo/energy_blade_hilt"
+
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/halo/hilt_EnvMapMask"
+	"$envmapcontrast" 1
+	"$envmapsaturation" "[1.0 1.0 1.0]"
+}

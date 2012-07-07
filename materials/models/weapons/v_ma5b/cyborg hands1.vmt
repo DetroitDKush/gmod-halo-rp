@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Weapons/v_ma5b/cyborg hands1"
+	"$bumpmap" "models/Weapons/v_ma5b/cyborg hands1_normal"
+}

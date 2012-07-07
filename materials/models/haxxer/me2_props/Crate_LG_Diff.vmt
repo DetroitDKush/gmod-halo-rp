@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/haxxer/me2_props/Crate_LG_Diff"
+	"$bumpmap" "models/haxxer/me2_props/Crate_LG_Norm"
+}
+

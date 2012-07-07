@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\w_sword\blade_shield_mask"
+	"$translucent" 1
+	"$decal" 1
+	"$model" 1
+	"$selfillum" "1"
+}

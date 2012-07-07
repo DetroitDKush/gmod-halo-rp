@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "Imperial/Buildings/Refinery/imp_refinery_LOD"
+
+	"$surfaceprop" "concrete"
+	"%keywords" "empires"
+}

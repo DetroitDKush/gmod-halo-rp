@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"Imperial/Buildings/Walls/imp_wall1"
+	"$bumpmap" "Imperial/Buildings/Walls/imp_wall1_normal"
+
+	//"$envmap" "env_cubemap"
+	//"$envmaptint" "[ 0.25 0.25 0.25 ]"
+	//"$envmapsaturation" 0.5
+	//"$normalmapalphaenvmapmask" 1
+	
+	//"vertexlitgeneric_HDR_dx9"
+ 	//{
+	//	"$envmaptint" "[.085 .085 .085]"
+	//}
+
+	"%keywords" "empires"
+	"$surfaceprop" "metal"
+}

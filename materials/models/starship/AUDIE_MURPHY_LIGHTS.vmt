@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\STARSHIP\AUDIE_MURPHY_LIGHTS"
+   $additive 1
+   $selfillum 1
+ }

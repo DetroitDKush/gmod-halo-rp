@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "imperial/buildings_worldgeometry/imp_buildingtextureswall05"
+	"$bumpmap" "imperial/buildings_worldgeometry/imp_buildingtextureswall05_normal"
+	"$surfaceprop" "Metal"
+	"%keywords" "empires"
+}

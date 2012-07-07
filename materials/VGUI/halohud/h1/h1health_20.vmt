@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/halohud/h1/h1health_20"
+	"$ignorez"1
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$nolod" "1"
+}
