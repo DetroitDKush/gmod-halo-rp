@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/af/AFF/AISN/brown"
+	"$selfillum" 1
+}

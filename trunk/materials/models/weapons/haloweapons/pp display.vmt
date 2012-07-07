@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/haloweapons/pp display"
+	"$translucent" 1
+	"$decal" 1
+}

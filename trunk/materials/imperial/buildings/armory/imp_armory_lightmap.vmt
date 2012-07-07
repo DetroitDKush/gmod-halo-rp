@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "Imperial/Buildings/Armory/imp_armory_lightmap"
+	
+	"$translucent" 1
+
+	"$surfaceprop" "concrete"
+	"%keywords" "empires"
+	
+	
+}

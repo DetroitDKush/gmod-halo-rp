@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+       "$baseTexture" "models/tpixelchief/master-chief-color2"
+	"$bumpmap" "models/tpixelchief/master-chief-normal"
+	"$envmap" "models/tpixelchief/soria-env"
+
+	"$envmapcontrast" 1
+	"$envmapsaturation" 0
+
+	
+}
+

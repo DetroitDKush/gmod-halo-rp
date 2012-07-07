@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/af/AFF/USN/heimdall_hwtex"
+	"$selfillum" 1
+}

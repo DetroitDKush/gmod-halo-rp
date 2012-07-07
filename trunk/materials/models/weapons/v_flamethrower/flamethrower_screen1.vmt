@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/Weapons/v_flamethrower/flamethrower_screen1"
+	"$model" 1
+}

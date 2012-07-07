@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"Imperial/Buildings/imp_buildingTextureswall03_sm"
+
+	"%keywords" "empires"
+	"$surfaceprop" "metal"
+}

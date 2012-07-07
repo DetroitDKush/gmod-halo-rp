@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "models\odst\pod\thruster_sprite"
+	"$vertexalpha" "1"
+	"$translucent" "1"
+}

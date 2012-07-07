@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\boomer\Bomber"
+	"$bumpmap" "models\boomer\Bomber_N"
+     "$envmap" "env_cubemap"
+   $normalmapalphaenvmapmask 1
+ "$envmapcontrast" "1.25"
+	"$envmapsaturation" "[.2 0.5 0.5]"
+ }

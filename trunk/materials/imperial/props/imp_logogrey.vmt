@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture"	"Imperial/Props/imp_logoGrey"
+
+	"$alphatest" 1
+
+	"%keywords" "empires"
+	"$surfaceprop" "metal"
+}

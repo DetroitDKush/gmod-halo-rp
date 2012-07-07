@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "mndels/HaloMarine/Marine_arm_pack"
+	"$halflambert" 1
+
+	"$phong" "1"
+	"$phongexponent" 5
+//	"$phongexponenttexture" "mndels/HaloMarine/Marine_arm_pack_spec"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.01 0.5 1]"
+}

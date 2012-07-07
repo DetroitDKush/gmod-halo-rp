@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\cire992\props2\TruckFlatBed02_Side_Diff"
+        	"$bumpmap" "models\cire992\props2\TruckFlatBed02_Side_Norm"
+	"$model" "1"
+	"$halflambert" 1
+	"$selfillum" 1
+
+	"$phong" "1"
+	"$phongexponent" 2
+	"$phongboost"	".008"
+	"$phongfresnelranges"	"[15 15 15]"
+
+	// Rim lighting parameters
+	"$rimlight" "0"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "1000"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" ".01"	
+}

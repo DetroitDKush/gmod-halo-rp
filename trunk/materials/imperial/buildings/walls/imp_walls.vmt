@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"Imperial/Buildings/Walls/imp_walls"
+	"$bumpmap" "Imperial/Buildings/Walls/imp_walls_normal"
+	
+	"$detail" "detail/detail_concrete_03"
+	"$detailscale" 4.0
+
+	"$phong" "1"
+	"$phongboost"	"8"
+	"$phongexponent" 40
+	"$phongfresnelranges"	"[0.1 0.5 1]"
+
+	"%keywords" "empires"
+	"$surfaceprop" "metal"
+}

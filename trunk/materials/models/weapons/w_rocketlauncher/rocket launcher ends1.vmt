@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Weapons/w_rocketlauncher/rocket launcher ends1"
+	"$bumpmap" "models/Weapons/w_rocketlauncher/rocket launcher ends_normal"
+}

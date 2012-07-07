@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/haxxer/me2_props/PaperPile_Set_Diff"
+	"$bumpmap" "models/haxxer/me2_props/PaperPile_Set_Norm"
+}

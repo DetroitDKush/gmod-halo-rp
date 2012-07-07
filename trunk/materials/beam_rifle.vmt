@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "/beam_rifle"
+		"$bumpmap" "/beam_rifle_bump"
+
+	"$phong" "1"
+
+
+	"$phongboost" ".1"	
+	"$phongfresnelranges"	"[1 1 1]"
+	"$phongexponenttexture" "hoteliteactionxxx_clickhere"
+	"$phongalbedotint" "1"
+
+}

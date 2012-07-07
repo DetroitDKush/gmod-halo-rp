@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\w_sword\energy_blade_hilt"
+
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\w_sword\hilt_EnvMapMask"
+	"$envmapcontrast" 1
+	"$envmapsaturation" "[1.0 1.0 1.0]"
+}

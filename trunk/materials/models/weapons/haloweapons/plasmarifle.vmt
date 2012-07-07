@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/haloweapons/plasmarifle"
+	"$bumpmap" "models/weapons/haloweapons/plasmarifle_normal"
+	"$normalmapalphaenvmapmask" 1
+	//"$envmap" "env_cubemap"
+	//"$envmaptint" "[ 0.7 0.7 0.7 ]"
+	"$phong" "1"
+	"$phongexponent" "45"
+	"$phongboost"	"2"
+	"$phongfresnelranges"	"[.2 4 1]"
+}

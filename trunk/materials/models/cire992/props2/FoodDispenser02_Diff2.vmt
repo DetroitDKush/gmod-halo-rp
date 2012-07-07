@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\cire992\props2\FoodDispenser02_Diff2"
+        	"$bumpmap" "models\cire992\props2\FoodDispenser02_Norm"
+	"$model" "1"
+	"$halflambert" 1
+	"$translucent" 1
+
+	"$phong" "1"
+	"$phongexponent" 100
+	"$phongboost"	".2"
+//	"$phongexponent "5"
+	"$phongfresnelranges"	"[40 40 40]"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.0 0.0 0.0 ]"
+
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "12"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" ".2"	
+}

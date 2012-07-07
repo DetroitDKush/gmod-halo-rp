@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"Imperial/Buildings/imp_repairPad_ramp"
+	
+	"$nocull" 1
+
+	"%keywords" "empires"
+	"$surfaceprop" "metal"
+}

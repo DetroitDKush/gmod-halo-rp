@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/haxxer/me2_props/Microscope01_Diff"
+	"$bumpmap" "models/haxxer/me2_props/Microscope01_Norm"
+	"$phongexponenttexture" "models/haxxer/me2_props/Microscope01_Spec"
+}

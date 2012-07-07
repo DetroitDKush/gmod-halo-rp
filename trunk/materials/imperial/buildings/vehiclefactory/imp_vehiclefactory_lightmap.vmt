@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "Imperial/Buildings/VehicleFactory/imp_vehicleFactory_lightmap"
+	
+	"$translucent" 1
+
+	"$surfaceprop" "concrete"
+	"%keywords" "empires"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Weapons/w_s2am/sr bolt1"
+	"$translucent" 1
+}

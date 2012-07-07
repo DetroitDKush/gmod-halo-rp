@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/af/AFF/CIV/outpost/station1spec[2]"
+	"$selfillum" 1
+}

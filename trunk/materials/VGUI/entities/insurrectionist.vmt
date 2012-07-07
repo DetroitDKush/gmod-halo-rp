@@ -1,0 +1,8 @@
+"Sprite"
+{
+	"$basetexture" "entities/insurrectionist"
+	"$additive" 1
+	"$alphatest" 1
+	"$translucent" 1
+	"$vertexalpha" 1
+}

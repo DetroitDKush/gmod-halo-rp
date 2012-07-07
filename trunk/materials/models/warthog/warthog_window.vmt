@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\warthog/warthog_window"
+	"$translucent" "1"
+}

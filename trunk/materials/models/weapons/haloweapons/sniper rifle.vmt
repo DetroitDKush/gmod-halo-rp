@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/haloweapons/sniper rifle1"
+	"$bumpmap" "models/weapons/haloweapons/sniper rifle normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+}
+

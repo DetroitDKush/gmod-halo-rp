@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\odst\pod\odst_bay"
+	"$surfaceprop" "metal"
+}

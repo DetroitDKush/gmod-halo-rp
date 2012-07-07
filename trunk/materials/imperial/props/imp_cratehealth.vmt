@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"Imperial/Props/imp_crateHealth"
+	"$bumpmap" "Imperial/Props/imp_crateHealth_normal"
+
+	"$detail" "detail/metal_detail_01"
+	"$detailscale" 8.566	// Fits the detail texture onto the material the given number of times. Generally around 7 or 8 for a 128px detail texture; default is 4. 
+	"$detailblendfactor" 1.2	// Intensity of the detail's darkening of the albedo. Effectively an $alpha value. 
+	"$detailblendmode" 0	// Enable to make the detail texture darken the albedo more. 
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.5 0.5 0.5 ]"
+	"$envmapsaturation" 0.5
+	"$normalmapalphaenvmapmask" 1
+	
+	"vertexlitgeneric_HDR_dx9"
+ 	{
+		"$envmaptint" "[.15 .15 .15]"
+	}
+
+	"%keywords" "empires"
+	"$surfaceprop" "metal"
+}

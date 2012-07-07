@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/af/AFF/USN/fuelpod"
+	"$selfillum" 1
+}

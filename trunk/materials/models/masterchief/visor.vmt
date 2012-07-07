@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+       "$baseTexture" "models/masterchief/visor"
+	"$bumpmap" "models/masterchief/visor-normal"
+	"$envmap" "env_cubemap"
+
+	
+
+	
+}
+

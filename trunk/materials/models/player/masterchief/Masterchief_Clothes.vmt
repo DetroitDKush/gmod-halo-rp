@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\masterchief\masterchief_armor"
+	"$bumpmap" "models\player\masterchief\Masterchief_bump"
+	"$phong" "1"
+	"$phongboost"	"0.1"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+	"$detail" "models\player\masterchief\rubber"
+	"$detailscale" 10
+}
+

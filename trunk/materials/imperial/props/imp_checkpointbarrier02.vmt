@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"Imperial/Props/imp_checkpointBarrier02"
+	"$bumpmap" "Imperial/Props/imp_checkpointBarrier02_normal"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.5 0.5 0.5 ]"
+	"$envmapsaturation" 0.5
+	"$normalmapalphaenvmapmask" 1
+	
+	"vertexlitgeneric_HDR_dx9"
+ 	{
+		"$envmaptint" "[.15 .15 .15]"
+	}
+
+	"%keywords" "empires"
+	"$surfaceprop" "metal"
+}

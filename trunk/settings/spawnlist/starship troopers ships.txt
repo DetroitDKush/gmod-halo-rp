@@ -1,0 +1,18 @@
+"12"
+{
+	"Information"
+	{
+		"name"		"halo bomber"
+	}
+	"Entries"
+	{
+		"1"
+		{
+			"model"	"models/audiemurphy.mdl"
+		}
+		"2"
+		{
+			"model"	"models/boomer.mdl"
+		}
+	}
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\odst\pod\odst_pod_int_diff"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models\odst\pod\odst_pod_int_norm"
+}

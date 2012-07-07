@@ -1,0 +1,8 @@
+"Modulate"
+{
+	"$basetexture" "Imperial/Props/imp_logoEmboss"
+	"$translucent" 1
+	"$mod2x" "1"
+
+	"%keywords" "empires"
+}

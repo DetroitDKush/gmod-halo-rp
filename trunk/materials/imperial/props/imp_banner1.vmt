@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"Imperial/Props/imp_banner1"
+
+	"%keywords" "empires"
+	"$surfaceprop" "metal"
+}

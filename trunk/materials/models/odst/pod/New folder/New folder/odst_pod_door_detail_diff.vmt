@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\odst\pod\odst_pod_door_detail_diff"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "metal"
+	"$normalmapalphaenvmapmask" "1"
+	"$bumpmap" "models\odst\pod\odst_pod_door_detail_norm"
+}

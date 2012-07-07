@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Weapons/w_needler/needler needles1"
+	"$additive" 1
+}

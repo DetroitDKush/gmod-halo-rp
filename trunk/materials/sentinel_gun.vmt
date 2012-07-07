@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "/sentinel_gun"
+		"$bumpmap" "/sentinel_gun_bump"
+
+	"$phong" "1"
+
+
+	"$phongboost" ".1"	
+	"$phongfresnelranges"	"[1 1 1]"
+	"$phongexponenttexture" "hoteliteactionxxx_clickhere"
+	"$phongalbedotint" "1"
+}

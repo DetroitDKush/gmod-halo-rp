@@ -1,0 +1,50 @@
+"Unlittwotexture"
+{
+	"$model" "1"
+	"$baseTexture" "models\cire992\props\Holomod_01_OrangeAni"
+	"$surfaceprop" "glass"
+	"$selfillum" "1"
+	"$translucent" 1
+	"$mod2x" "1"
+	"$additive" "1"
+	"$texture2"	"models/cire992/props/fx_holo_distortion"
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"Animatedtexturevar" "$basetexture"
+			"Animatedtextureframenumvar" "$frame"
+			"Animatedtextureframerate" "12"
+		}
+		"Sine"
+		{
+			"resultVar" "$color[0]"
+			"sineperiod" .2
+			"sinemin" .99
+			"sinemax" 1
+		}
+		"Sine"
+		{
+			"resultVar" "$color[1]"
+			"sineperiod" .1
+			"sinemin" .98
+			"sinemax" 1
+		}
+		"Sine"
+		{
+			"resultVar" "$color[2]"
+			"sineperiod" .1
+			"sinemin" .99
+			"sinemax" 1
+		}
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" .4
+			"texturescrollangle" 45
+		}
+
+	}
+
+}

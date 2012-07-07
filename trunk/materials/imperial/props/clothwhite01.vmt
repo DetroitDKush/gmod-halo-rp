@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Common/Fabric/clothWhite01"
+//	"$bumpmap" "Common/Fabric/ceiling01_normal"
+
+	"%keywords" "empires"
+	"$surfaceprop" "fabric"
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/elite/legs_white"
+	"$bumpmap" "models/elite/legs_blue_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.3 0.3 0.3 ]"
+	"$normalmapalphaenvmapmask" "1"
+	"$model" 1
+}

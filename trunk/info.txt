@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+	"name"		"Halo Content"
+	"version"	"1"
+	"up_date"	""
+	"author_name"	"fags"
+	"author_email"	""
+	"author_url"	""
+	"info"		"halo content"
+
+	"override"	"0"
+}
