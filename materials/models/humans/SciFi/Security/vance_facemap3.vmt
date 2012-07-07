@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\humans/SciFi2/Male/vance_facemap3"
+	"$bumpmap" "models\humans/SciFi2/Male/vance_facemap3_n"
+	"$halflambert" 1
+	"$nocull" 1
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "1"
+ 	"$phongfresnelranges" "[0.1 2.1 5.1]"
+	"$phongalbedotint" "1"
+}
