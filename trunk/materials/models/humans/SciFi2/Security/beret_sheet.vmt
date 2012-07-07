@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"Models/humans/SciFi2/Security/beret_sheet"
+	"$bumpmap"	"Models/humans/SciFi2/Security/beret_sheet_n"
+	"$halflambert" 1
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "1"
+ 	"$phongfresnelranges" "[0.1 0.3 1.0]"
+	"$phongalbedotint" "1"
+}
