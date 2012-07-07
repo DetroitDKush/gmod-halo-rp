@@ -1,0 +1,5 @@
+// envmaptint_fix
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Humans/SciFi2/Female/mossman_sheet"
+}

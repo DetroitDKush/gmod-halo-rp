@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Humans/SciFi2/Security/vaultsecurityhelmetm"
+	"$bumpmap" "models\Humans/SciFi2/Security/vaultsecurityhelmetm_n"
+}

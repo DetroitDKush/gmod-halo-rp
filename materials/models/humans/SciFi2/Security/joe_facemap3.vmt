@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/Humans/SciFi2/Male/joe_facemap3"
+	"$halflambert" 1
+	"$nocull" 1
+}

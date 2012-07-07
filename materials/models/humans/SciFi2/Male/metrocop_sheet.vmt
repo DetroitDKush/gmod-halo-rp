@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Humans/SciFi2/Male/metrocop_sifi"
+	"$bumpmap" "models/Humans/SciFi2/Male/metrocop_sifi_n"
+	"$selfillum" "1"
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "1"
+ 	"$phongfresnelranges" "[0.1 2.1 5.1]"
+	"$phongalbedotint" "1"
+}
