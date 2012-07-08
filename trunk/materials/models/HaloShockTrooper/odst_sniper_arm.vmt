@@ -1,7 +1,6 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "models/HaloShockTrooper/odst_arms_jack"
-        "$bumpmap" "models/HaloShockTrooper/odst_arms_n"
+	"$basetexture" "models/HaloShockTrooper/odst_Sniper_arm"
 	"$halflambert" 1
 
 	"$phong" "1"

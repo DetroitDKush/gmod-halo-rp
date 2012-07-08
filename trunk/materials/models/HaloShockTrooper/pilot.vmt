@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/HaloShockTrooper/pilot"
+        "$bumpmap" "models/HaloShockTrooper/pilot_n"
+	"$halflambert" 1
+
+	"$phong" "1"
+	"$phongexponent" 5
+//	"$phongexponenttexture" "models/HaloShockTrooper/pilot_em"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.01 0.5 1]"
+	"$selfillum" 1
+	"$selfillummask" "models/HaloShockTrooper/pilot_g"
+}
