@@ -1,0 +1,7 @@
+list.Set( "NPCWeapons", "halo_dm_M6D", "Halo M6D" )
+list.Set( "NPCWeapons", "halo_dm_MA5B", "Halo MA5B" )
+list.Set( "NPCWeapons", "halo_dm_flamethrower", "Halo Flame Thrower" )
+list.Set( "NPCWeapons", "halo_dm_plasma_rifle", "Halo Plasma Rifle" )
+list.Set( "NPCWeapons", "halo_dm_rocket", "Halo RocketLauncher" )
+list.Set( "NPCWeapons", "halo_dm_shotgun", "Halo Shotgun" )
+list.Set( "NPCWeapons", "halo_dm_sniper", "Halo Sniper" )
